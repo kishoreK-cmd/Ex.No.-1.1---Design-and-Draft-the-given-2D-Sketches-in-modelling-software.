@@ -54,8 +54,6 @@ step 7:
 ## OUTPUT:
 
  <img width="1920" height="1080" alt="Screenshot 2026-11-16 213816" src="https://github.com/user-attachments/assets/ac7a93d8-3cb5-488b-bea8-fb334dca43dd" />
-
- 
  <img width="1920" height="1080" alt="Screenshot 2026-11-16 213958" src="https://github.com/user-attachments/assets/bbca4a31-6bff-43da-9295-5fd54f3ecd25" />
 
 
